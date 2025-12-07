@@ -3,8 +3,8 @@ function linknama() {location.replace("/");}
 function jumpnama() {window.open("/");}
 function linkqq828() {location.replace("https://qq828kr1.com/");}
 function jumpqq828() {location.replace("https://qq828kr1.com/");}
-function linkqq801() {location.replace("https://qq801b3o.com/");}
-function jumpqq801() {location.replace("https://qq801b3o.com/");}
+function linkqq801() {location.replace("https://qq801v5i.com/");}
+function jumpqq801() {location.replace("https://qq801v5i.com/");}
 function linkqq808() {location.replace("https://qq808scg.com/");}
 function jumpqq808() {location.replace("https://qq808scg.com/");}
 function linkqq882() {location.replace("https://qq882bfp.com/");}
@@ -39,6 +39,7 @@ function linkqqbos99() {location.replace("https://www.senisastra.com/Member/Stre
 function jumpqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
+
 
 
 
