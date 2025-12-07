@@ -21,8 +21,8 @@ function linkqqbetwin() {location.replace("https://qqbetwin8t3.com/");}
 function jumpqqbetwin() {location.replace("https://qqbetwin8t3.com/");}
 function linkqqfunbet() {location.replace("https://qqfunbet86v.com/");}
 function jumpqqfunbet() {location.replace("https://qqfunbet86v.com/");}
-function linkqqvegas() {location.replace("https://qqvegas1ak.com/");}
-function jumpqqvegas() {location.replace("https://qqvegas1ak.com/");}
+function linkqqvegas() {location.replace("https://qqvegastto.com/");}
+function jumpqqvegas() {location.replace("https://qqvegastto.com/");}
 function linkqqkingbet() {location.replace("https://qqkingbet95b.com/");}
 function linkqqextra() {location.replace("https://qqextrausb.com/");}
 function linkqqslebew() {location.replace("https://qqslebewc76.com/");}
@@ -39,6 +39,7 @@ function linkqqbos99() {location.replace("https://www.senisastra.com/Member/Stre
 function jumpqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
+
 
 
 
