@@ -53,7 +53,8 @@ function linkqqfreeslot() {location.replace("https://www.senisastra.com/Member/S
 function linkqq757bet() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqslebew() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkbebek368() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
-function linkbola() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function linkqqbola() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
