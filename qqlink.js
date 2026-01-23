@@ -1,34 +1,28 @@
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function linknama() {location.replace("/");}
-function linkqq888bet() {location.replace("https://qq888betap8.com/");}
-function linkqqbonus() {location.replace("https://qqbonus61s.com/");}
-function linkqq188() {location.replace("https://qq188fyp.com/");}
-function linkqq724() {location.replace("https://qq724bcm.com/");}
-function linkqq288() {location.replace("https://qq288zt5.com/");}
-function linkqq828() {location.replace("https://qq828kr1.com/");}
-function jumpqq828() {location.replace("https://qq828kr1.com/");}
-function linkqq801() {location.replace("https://qq801v5i.com/");}
-function jumpqq801() {location.replace("https://qq801v5i.com/");}
-function linkqq808() {location.replace("https://qq808scg.com/");}
-function jumpqq808() {location.replace("https://qq808scg.com/");}
-function linkqq882() {location.replace("https://qq882bfp.com/");}
-function jumpqq882() {location.replace("https://qq882bfp.com/");}
-function linkqqberak() {location.replace("https://qqberak31p.com/");}
-function jumpqqberak() {location.replace("https://qqberak31p.com/");}
-function linkqq88pro() {location.replace("https://qq88pro89r.com/");}
-function jumpqq88pro() {location.replace("https://qq88pro89r.com/");}
+function linkqq888bet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=119");}
+function linkqqbonus() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=108");}
+function linkqq188() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13133463&group=1");}
+function linkqq724() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=23");}
+function linkqq288() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13376199&group=0");}
+function linkqq828() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=7");}
+function linkqq801() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=6");}
+function linkqq808() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=33");}
+function linkqq882() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=38");}
+function linkqqberak() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=100");}
+function linkqq88pro() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=112");}
 function linkqq303() {location.replace("https://qq303zt4.com/Member/StreamlinedRegister?R=5FC84B59");}
 function jumpqq303() {location.replace("https://qq303zt4.com/Member/StreamlinedRegister?R=5FC84B59");}
-function linkqqfortuna() {location.replace("https://qqfortuna4jw.com/");}
-function jumpqqfortuna() {location.replace("https://qqfortuna4jw.com/");}
-function linkqqbetwin() {location.replace("https://qqbetwin8t3.com/");}
-function jumpqqbetwin() {location.replace("https://qqbetwin8t3.com/");}
-function linkqqfunbet() {location.replace("https://qqfunbet86v.com/");}
-function jumpqqfunbet() {location.replace("https://qqfunbet86v.com/");}
-function linkqqvegas() {location.replace("https://qqvegastto.com/");}
-function jumpqqvegas() {location.replace("https://qqvegastto.com/");}
-function linkqqkingbet() {location.replace("https://qqkingbet95b.com/");}
+function linkqqfortuna() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=28");}
+function jumpqqfortuna() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=28");}
+function linkqqbetwin() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=85");}
+function jumpqqbetwin() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=85");}
+function linkqqfunbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=48");}
+function jumpqqfunbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=48");}
+function linkqqvegas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=52");}
+function jumpqqvegas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=52");}
+function linkqqkingbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=106");}
 function linkqqextra() {location.replace("https://qqextrausb.com/");}
 function linkqqslebew() {location.replace("https://qqslebewc76.com/");}
 function linkqqterang() {location.replace("https://www.qqbiru147.com/");}
@@ -56,6 +50,7 @@ function linkqq59bet() {location.replace("https://www.senisastra.com/Member/Stre
 function linkqq820() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqfreeslot() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq757bet() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
