@@ -1,6 +1,7 @@
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function linknama() {location.replace("/");}
+function linkqq724() {location.replace("https://qq724bcm.com/");}
 function linkqqpusat() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqcasino() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq288() {location.replace("https://qq288zt5.com/");}
@@ -50,6 +51,7 @@ function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
 function linkluxury777() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511868&group=0");}
 function linkqq1221() {location.replace("https://qq1221high.org/Member/StreamlinedRegister?R=301B242B");}
+
 
 
 
