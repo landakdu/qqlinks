@@ -1,6 +1,7 @@
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function linknama() {location.replace("/");}
+function linkqqangpao() {location.replace("https://qqangpaosnake.com/Member/StreamlinedRegister?R=38B9DA8D");}
 function linkqq888bet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=119");}
 function linkqqbonus() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=108");}
 function linkqq188() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13133463&group=1");}
@@ -50,6 +51,7 @@ function linkqqfreeslot() {location.replace("https://www.senisastra.com/Member/S
 function linkqq757bet() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqslebew() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkbebek368() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
