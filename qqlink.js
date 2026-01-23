@@ -45,7 +45,7 @@ function jumpqqbos99() {location.replace("https://www.senisastra.com/Member/Stre
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
 function linkluxury777() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511868&group=0");}
-function linkqq1221() {location.replace("https://qq1221high.org/Member/StreamlinedRegister?R=301B242B");}
+function linkqq1221() {location.replace("https://qq1221loop.net/Member/StreamlinedRegister?R=301B242B");}
 function linkqqtime() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqpusat() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqcasino() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
@@ -56,6 +56,7 @@ function linkqq59bet() {location.replace("https://www.senisastra.com/Member/Stre
 function linkqq820() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqfreeslot() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq757bet() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
