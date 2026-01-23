@@ -56,6 +56,9 @@ function linkbebek368() {location.replace("https://www.senisastra.com/Member/Str
 function linkqqbola() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqtopwin() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqliga() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function linkqqpremium() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function linkqqokbet() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
