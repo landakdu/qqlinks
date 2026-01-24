@@ -70,6 +70,8 @@ function linkqq8838() {location.replace("https://www.senisastra.com/Member/Strea
 function linkqqbetway() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqnowbet() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqplaywin() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function linkqqhappy21() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
