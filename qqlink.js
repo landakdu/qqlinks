@@ -78,7 +78,9 @@ function linkqqmaxwin() {location.replace("https://www.senisastra.com/Member/Str
 function linksbobet() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkcmd365() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
