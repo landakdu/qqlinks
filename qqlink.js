@@ -31,8 +31,8 @@ function linkqqbetwin() {location.replace("https://secure.livechatinc.com/custom
 function jumpqqbetwin() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=85");}
 function linkqqfunbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=48");}
 function jumpqqfunbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=48");}
-function linkqqvegas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=52");}
-function jumpqqvegas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=52");}
+function linkqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
+function jumpqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
 function linkqqkingbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=106");}
 function linkqqextra() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=109");}
 function linkqqterang() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=159");}
@@ -83,6 +83,7 @@ function linkcmd365() {location.replace("https://www.senisastra.com/Member/Strea
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
