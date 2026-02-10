@@ -1,6 +1,7 @@
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function linknama() {location.replace("/");}
+function linkqqdewa() {location.replace("https://secure.livechatenterprise.com/licence/11739198/v2/open_chat.cgi?groups=0");}
 function linkqqemas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=9689690&group=1");}
 function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
 function linkqqmacan() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511436&group=0");}
@@ -82,6 +83,7 @@ function linkcmd365() {location.replace("https://www.senisastra.com/Member/Strea
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
