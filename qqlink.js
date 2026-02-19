@@ -37,7 +37,7 @@ function jumpqqfunbet() {location.replace("https://secure.livechatinc.com/custom
 function linkqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
 function jumpqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
 function linkqqkingbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=106");}
-function linkqqextra() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=109");}
+function linkqqextra() {location.replace("https://qqextraxtx.com/");}
 function linkqqterang() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=159");}
 function linkqqhobi() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=135");}
 function linkqq7887() {location.replace("https://qq7887pky.com/Member/StreamlinedRegister?R=1DD04C85");}
@@ -86,6 +86,7 @@ function linkcmd365() {location.replace("https://www.senisastra.com/Member/Strea
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
