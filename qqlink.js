@@ -32,11 +32,11 @@ function jumpqq303() {location.replace("https://qq303zt4.com/Member/StreamlinedR
 function linkqqfortuna() {location.replace("https://qqfortuna4jw.com/Member/StreamlinedRegister?R=0553AB00");}
 function jumpqqfortuna() {location.replace("https://qqfortuna4jw.com/Member/StreamlinedRegister?R=0553AB00");}
 function linkqqbetwin() {location.replace("https://qqbetwin7p5.com/Member/StreamlinedRegister?R=C7186357");}
-function linkqqfunbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=48");}
-function jumpqqfunbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=48");}
+function linkqqfunbet() {location.replace("https://qqfunbet12p.com/");}
+function jumpqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function linkqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
 function jumpqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
-function linkqqkingbet() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=106");}
+function linkqqkingbet() {location.replace("https://qqkingbet95b.com/");}
 function linkqqextra() {location.replace("https://qqextraxtx.com/");}
 function linkqqterang() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=159");}
 function linkqqhobi() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=135");}
@@ -48,8 +48,8 @@ function linkqq999bet() {location.replace("https://secure.livechatinc.com/custom
 function linkqq7997() {location.replace("https://qq7997ek8.com/Member/StreamlinedRegister?R=4668EFEF");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function jumpqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
-function linkqq8889() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=68");}
-function linkqq1x2() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=18");}
+function linkqq8889() {location.replace("https://qq8889spd.com/");}
+function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
 function linkluxury777() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511868&group=0");}
 function linkqq1221() {location.replace("https://qq1221loop.org/Member/StreamlinedRegister?R=301B242B");}
 function linkqqtime() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
@@ -86,6 +86,7 @@ function linkcmd365() {location.replace("https://www.senisastra.com/Member/Strea
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
