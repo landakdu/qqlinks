@@ -26,7 +26,7 @@ function linkqq801() {location.replace("https://qq801s7w.com/Member/StreamlinedR
 function linkqq808() {location.replace("https://qq808tfx.com/Member/StreamlinedRegister?R=BAB2F2FE");}
 function linkqq882() {location.replace("https://qq882jf1.com/");}
 function linkqqberak() {location.replace("https://qqberak31p.com/Member/StreamlinedRegister?R=E038C132");}
-function linkqq88pro() {location.replace("https://qq88pro89r.com/");}
+function linkqq88pro() {location.replace("hhttps://qq88pro89r.com/Member/StreamlinedRegister?R=DB3B7621");}
 function linkqq303() {location.replace("https://qq303zt4.com/Member/StreamlinedRegister?R=5FC84B59");}
 function jumpqq303() {location.replace("https://qq303zt4.com/Member/StreamlinedRegister?R=5FC84B59");}
 function linkqqfortuna() {location.replace("https://qqfortuna4jw.com/Member/StreamlinedRegister?R=0553AB00");}
@@ -36,8 +36,8 @@ function linkqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function jumpqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function linkqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
 function jumpqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
-function linkqqkingbet() {location.replace("https://qqkingbet95b.com/");}
-function linkqqextra() {location.replace("https://qqextraxtx.com/");}
+function linkqqkingbet() {location.replace("https://qqkingbet95b.com/Member/StreamlinedRegister?R=5457CEDC");}
+function linkqqextra() {location.replace("https://qqextraxtx.com/Member/StreamlinedRegister?R=5E325C1E");}
 function linkqqterang() {location.replace("https://qqbiru258.com/");}
 function linkqq7887() {location.replace("https://qq7887pky.com/Member/StreamlinedRegister?R=1DD04C85");}
 function linkqqfunwin() {location.replace("https://qqfunwin3u2.com/");}
@@ -85,6 +85,7 @@ function linkcmd365() {location.replace("https://www.senisastra.com/Member/Strea
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
