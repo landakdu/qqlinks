@@ -18,7 +18,7 @@ function link1001win() {location.replace("https://1001winobat.com/");}
 function linkqqangpao() {location.replace("https://qqangpaosnake.com/Member/StreamlinedRegister?R=38B9DA8D");}
 function linkqq888bet() {location.replace("https://qq888bet2kp.com/");}
 function linkqqbonus() {location.replace("https://qqbonus61s.com/");}
-function linkqq188() {location.replace("https://qq188uci.com/");}
+function linkqq188() {location.replace("https://qq188best.com/Member/StreamlinedRegister?R=615BDCFD");}
 function linkqq724() {location.replace("https://qq724sur.com/");}
 function linkqq288() {location.replace("https://qq288im3.com/");}
 function linkqq828() {location.replace("https://qq828k2h.com/Member/StreamlinedRegister?R=00147BFB");}
@@ -85,6 +85,7 @@ function linkcmd365() {location.replace("https://www.senisastra.com/Member/Strea
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+
 
 
 
