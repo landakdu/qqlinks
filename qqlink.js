@@ -47,8 +47,8 @@ function linkqq999bet() {location.replace("https://qq999bet6tp.com/");}
 function linkqq7997() {location.replace("https://qq7997ek8.com/Member/StreamlinedRegister?R=4668EFEF");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function jumpqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
-function linkqq8889() {location.replace("https://qq8889spd.com/");}
-function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
+function linkqq8889() {location.replace("https://qq8889vgv.com/");}
+function linkqq1x2() {location.replace("https://qq1x2rsu.com/");}
 function linkluxury777() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511868&group=0");}
 function linkqq1221() {location.replace("https://qq1221loop.org/Member/StreamlinedRegister?R=301B242B");}
 function linkqqtime() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
