@@ -1,13 +1,6 @@
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function link() {location.replace("/");}
-function linkqqkuda() {location.replace("https://secure.livechatenterprise.com/licence/15399624/v2/open_chat.cgi?group=6");}
-function linkqqmilan() {location.replace("https://stadio1milan.site/");}
-function linkqq2889() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=15399624&group=1");}
-function linkqqdewa() {location.replace("https://secure.livechatenterprise.com/licence/11739198/v2/open_chat.cgi?groups=0");}
-function linkqqemas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=9689690&group=1");}
-function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
-function linkqqmacan() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511436&group=0");}
 function linkqq101() {location.replace("https://qq101uok.com/");}
 function linkqqkopidarat() {location.replace("https://qqkopidarat1a.com/");}
 function linkarenacuan99() {location.replace("https://arenacuan99tp.com/");}
@@ -49,6 +42,13 @@ function linkqqbos99() {location.replace("https://www.senisastra.com/Member/Stre
 function jumpqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2rsu.com/");}
+function linkqqkuda() {location.replace("https://secure.livechatenterprise.com/licence/15399624/v2/open_chat.cgi?group=6");}
+function linkqqmilan() {location.replace("https://stadio1milan.site/");}
+function linkqq2889() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=15399624&group=1");}
+function linkqqdewa() {location.replace("https://secure.livechatenterprise.com/licence/11739198/v2/open_chat.cgi?groups=0");}
+function linkqqemas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=9689690&group=1");}
+function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
+function linkqqmacan() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511436&group=0");}
 function linkluxury777() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511868&group=0");}
 function linkqq1221() {location.replace("https://qq1221loop.org/Member/StreamlinedRegister?R=301B242B");}
 function linkqqtime() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
@@ -85,9 +85,3 @@ function linkcmd365() {location.replace("https://www.senisastra.com/Member/Strea
 function linksport() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linktutup() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
-
-
-
-
-
-
