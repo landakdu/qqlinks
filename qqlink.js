@@ -37,7 +37,7 @@ function linkqqfunwin() {location.replace("https://qqfunwin6w1.com/");}
 function linkqqmegah() {location.replace("https://rebrand.ly/megah28");}
 function linkqqfun77() {location.replace("https://qqfun77pg1.com/");}
 function linkqq999bet() {location.replace("https://qq999bet6tp.com/");}
-function linkqq7997() {location.replace("https://qq7997ek8.com/Member/StreamlinedRegister?R=4668EFEF");}
+function linkqq7997() {location.replace("https://qq7997ek8.com/);}
 function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function jumpqqbos99() {location.replace("https://www.senisastra.com/");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
