@@ -49,7 +49,7 @@ function linkqqdewa() {location.replace("https://secure.livechatenterprise.com/l
 function linkqqemas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=9689690&group=1");}
 function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
 function linkqqmacan() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511436&group=0");}
-function linkluxury777() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511868&group=0");}
+function linkluxury777() {location.replace("https://linkluxury777.com/");}
 function linkqq1221() {location.replace("https://qq1221loop.org/Member/StreamlinedRegister?R=301B242B");}
 function linkqqtime() {location.replace("https://www.senisastra.com/");}
 function linkqqpusat() {location.replace("https://www.senisastra.com/");}
