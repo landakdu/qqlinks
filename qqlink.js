@@ -22,8 +22,8 @@ function linkqqberak() {location.replace("https://lkgw.net/qqberak-alternatif");
 function linkqq88pro() {location.replace("https://rebrand.ly/qq88pro1");}
 function linkqq303() {location.replace("https://rebrand.ly/QQ303-Login");}
 function jumpqq303() {location.replace("https://rebrand.ly/QQ303-Login");}
-function linkqqfortuna() {location.replace("hhttps://rebrand.ly/qqfortuna-Login");}
-function jumpqqfortuna() {location.replace("hhttps://rebrand.ly/qqfortuna-Login");}
+function linkqqfortuna() {location.replace("https://rebrand.ly/qqfortuna-Login");}
+function jumpqqfortuna() {location.replace("https://rebrand.ly/qqfortuna-Login");}
 function linkqqbetwin() {location.replace("https://qqbetwin69q.com/");}
 function linkqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function jumpqqfunbet() {location.replace("https://qqfunbet12p.com/");}
@@ -37,7 +37,7 @@ function linkqqfunwin() {location.replace("https://qqfunwin6w1.com/");}
 function linkqqmegah() {location.replace("https://rebrand.ly/megah28");}
 function linkqqfun77() {location.replace("https://qqfun77pg1.com/");}
 function linkqq999bet() {location.replace("https://qq999bet6tp.com/");}
-function linkqq7997() {location.replace("https://qq7997ek8.com/);}
+function linkqq7997() {location.replace("https://qq7997ek8.com/");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function jumpqqbos99() {location.replace("https://www.senisastra.com/");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
