@@ -1,13 +1,13 @@
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function link() {location.replace("/");}
-function linkqq101() {location.replace("https://qq101uok.com/");}
+function linkqq101() {location.replace("https://lkgw.net/qq101-altbrand");}
 function linkqqkopidarat() {location.replace("https://qqkopidarat1a.com/");}
 function linkarenacuan99() {location.replace("https://arenacuan99tp.com/");}
 function linkqqmybet() {location.replace("https://qqmybet77p.com/");}
 function linkqqtopan() {location.replace("https://qqtopan8.com/");}
-function link88idr() {location.replace("https://websurscene.com/");}
-function link1001win() {location.replace("https://1001winobat.com/");}
+function link88idr() {location.replace("https://rebrand.ly/88idrlogin-AMP");}
+function link1001win() {location.replace("https://vipakses.com/1001newAMP-LOGIN");}
 function linkqqangpao() {location.replace("https://vipakses.com/LPLOGINQQANGPAO");}
 function linkqq888bet() {location.replace("https://qq888bet1bo.com/");}
 function linkqqbonus() {location.replace("https://qqbonustent.com/");}
@@ -22,9 +22,9 @@ function linkqqberak() {location.replace("https://lkgw.net/qqberak-alternatif");
 function linkqq88pro() {location.replace("https://rebrand.ly/qq88pro1");}
 function linkqq303() {location.replace("https://rebrand.ly/QQ303-Login");}
 function jumpqq303() {location.replace("https://rebrand.ly/QQ303-Login");}
-function linkqqfortuna() {location.replace("https://qqfortuna3bc.com/Member/StreamlinedRegister?R=0553AB00");}
-function jumpqqfortuna() {location.replace("https://qqfortuna3bc.com/Member/StreamlinedRegister?R=0553AB00");}
-function linkqqbetwin() {location.replace("https://qqbetwin69q.com/Member/StreamlinedRegister?R=C7186357");}
+function linkqqfortuna() {location.replace("hhttps://rebrand.ly/qqfortuna-Login");}
+function jumpqqfortuna() {location.replace("hhttps://rebrand.ly/qqfortuna-Login");}
+function linkqqbetwin() {location.replace("https://qqbetwin69q.com/");}
 function linkqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function jumpqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function linkqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
