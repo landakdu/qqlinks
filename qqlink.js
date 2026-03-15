@@ -18,7 +18,7 @@ function linkqq828() {location.replace("https://qq828f6j.com/Member/StreamlinedR
 function linkqq801() {location.replace("https://syntactic-surprise-calculator.com/Member/StreamlinedRegister?R=513A3A0C");}
 function linkqq808() {location.replace("https://schneiderpipeorgans.com/Member/StreamlinedRegister?R=BAB2F2FE");}
 function linkqq882() {location.replace("https://qq882ebg.com/");}
-function linkqqberak() {location.replace("https://qqberak45t.com/Member/StreamlinedRegister?R=E038C132");}
+function linkqqberak() {location.replace("https://lkgw.net/qqberak-alternatif");}
 function linkqq88pro() {location.replace("hhttps://qq88pro9df.com/Member/StreamlinedRegister?R=DB3B7621");}
 function linkqq303() {location.replace("https://qq303vr5.com/Member/StreamlinedRegister?R=5FC84B59");}
 function jumpqq303() {location.replace("https://qq303vr5.com/Member/StreamlinedRegister?R=5FC84B59");}
