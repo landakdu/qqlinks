@@ -46,7 +46,7 @@ function linkqqkuda() {location.replace("https://secure.livechatenterprise.com/l
 function linkqqmilan() {location.replace("https://stadio1milan.site/");}
 function linkqq2889() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=15399624&group=1");}
 function linkqqdewa() {location.replace("https://secure.livechatenterprise.com/licence/11739198/v2/open_chat.cgi?groups=0");}
-function linkqqemas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=9689690&group=1");}
+function linkqqemas() {location.replace("https://rdrect.cc/qqemas/");}
 function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
 function linkqqmacan() {location.replace("https://linkqqmacan.com/");}
 function linkluxury777() {location.replace("https://linkluxury777.com/");}
