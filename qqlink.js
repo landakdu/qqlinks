@@ -19,7 +19,7 @@ function linkqq801() {location.replace("https://vipakses.com/Login801");}
 function linkqq808() {location.replace("https://vipakses.com/LoginQQ808");}
 function linkqq882() {location.replace("https://lkgw.net/qq882-altbrand");}
 function linkqqberak() {location.replace("https://lkgw.net/qqberak-alternatif");}
-function linkqq88pro() {location.replace("hhttps://qq88pro9df.com/Member/StreamlinedRegister?R=DB3B7621");}
+function linkqq88pro() {location.replace("https://rebrand.ly/qq88pro1");}
 function linkqq303() {location.replace("https://rebrand.ly/QQ303-Login");}
 function jumpqq303() {location.replace("https://rebrand.ly/QQ303-Login");}
 function linkqqfortuna() {location.replace("https://qqfortuna3bc.com/Member/StreamlinedRegister?R=0553AB00");}
