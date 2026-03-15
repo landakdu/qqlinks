@@ -44,7 +44,7 @@ function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2rsu.com/");}
 function linkqqkuda() {location.replace("https://secure.livechatenterprise.com/licence/15399624/v2/open_chat.cgi?group=6");}
 function linkqqmilan() {location.replace("https://stadio1milan.site/");}
-function linkqq2889() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=15399624&group=1");}
+function linkqq2889() {location.replace("https://qq2889tiga.com/");}
 function linkqqdewa() {location.replace("https://qqdewatop.com/");}
 function linkqqemas() {location.replace("https://rdrect.cc/qqemas/");}
 function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
