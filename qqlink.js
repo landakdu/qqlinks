@@ -14,7 +14,7 @@ function linkqqbonus() {location.replace("https://qqbonustent.com/");}
 function linkqq188() {location.replace("https://qq188best.com/Member/StreamlinedRegister?R=615BDCFD");}
 function linkqq724() {location.replace("https://qq724zfp.com/");}
 function linkqq288() {location.replace("https://qq288im3.com/");}
-function linkqq828() {location.replace("https://qq828f6j.com/Member/StreamlinedRegister?R=00147BFB");}
+function linkqq828() {location.replace("https://lkgw.net/qq828-alternatif");}
 function linkqq801() {location.replace("https://syntactic-surprise-calculator.com/Member/StreamlinedRegister?R=513A3A0C");}
 function linkqq808() {location.replace("https://schneiderpipeorgans.com/Member/StreamlinedRegister?R=BAB2F2FE");}
 function linkqq882() {location.replace("https://qq882ebg.com/");}
