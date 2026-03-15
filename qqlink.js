@@ -32,7 +32,7 @@ function jumpqqvegas() {location.replace("https://qqvegas2bt.com/");}
 function linkqqkingbet() {location.replace("https://qqkingbet1o1.com/");}
 function linkqqextra() {location.replace("https://qqextra11q.com/Member/StreamlinedRegister?R=5E325C1E");}
 function linkqqterang() {location.replace("https://qqbieu321.com/");}
-function linkqq7887() {location.replace("https://qq7887mjy.com/Member/StreamlinedRegister?R=1DD04C85");}
+function linkqq7887() {location.replace("https://qq7887mjy.com/");}
 function linkqqfunwin() {location.replace("https://qqfunwin6w1.com/");}
 function linkqqmegah() {location.replace("https://rebrand.ly/megah28");}
 function linkqqfun77() {location.replace("https://qqfun77pg1.com/");}
