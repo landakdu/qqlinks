@@ -27,8 +27,8 @@ function jumpqqfortuna() {location.replace("hhttps://rebrand.ly/qqfortuna-Login"
 function linkqqbetwin() {location.replace("https://qqbetwin69q.com/");}
 function linkqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function jumpqqfunbet() {location.replace("https://qqfunbet12p.com/");}
-function linkqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
-function jumpqqvegas() {location.replace("https://qqvegas2bt.com/Member/StreamlinedRegister?R=D1DF09BC");}
+function linkqqvegas() {location.replace("https://qqvegas2bt.com/");}
+function jumpqqvegas() {location.replace("https://qqvegas2bt.com/");}
 function linkqqkingbet() {location.replace("https://qqkingbet1o1.com/Member/StreamlinedRegister?R=5457CEDC");}
 function linkqqextra() {location.replace("https://qqextra11q.com/Member/StreamlinedRegister?R=5E325C1E");}
 function linkqqterang() {location.replace("https://qqbieu321.com/");}
