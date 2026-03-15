@@ -9,7 +9,7 @@ function linkqqtopan() {location.replace("https://qqtopan8.com/");}
 function link88idr() {location.replace("https://rebrand.ly/88idrlogin-AMP");}
 function link1001win() {location.replace("https://vipakses.com/1001newAMP-LOGIN");}
 function linkqqangpao() {location.replace("https://vipakses.com/LPLOGINQQANGPAO");}
-function linkqq888bet() {location.replace("https://qq888bet1bo.com/");}
+function linkqq888bet() {location.replace("https://www.qq888bet1bo.com/");}
 function linkqqbonus() {location.replace("https://qqbonustent.com/");}
 function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function linkqq724() {location.replace("https://qq724zfp.com/");}
