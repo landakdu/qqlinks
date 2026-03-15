@@ -11,7 +11,7 @@ function link1001win() {location.replace("https://1001winobat.com/");}
 function linkqqangpao() {location.replace("https://qqangpaocuan.com/Member/StreamlinedRegister?R=38B9DA8D");}
 function linkqq888bet() {location.replace("https://qq888bet1bo.com/");}
 function linkqqbonus() {location.replace("https://qqbonustent.com/");}
-function linkqq188() {location.replace("https://qq188best.com/Member/StreamlinedRegister?R=615BDCFD");}
+function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function linkqq724() {location.replace("https://qq724zfp.com/");}
 function linkqq288() {location.replace("https://qq288im3.com/");}
 function linkqq828() {location.replace("https://lkgw.net/qq828-alternatif");}
