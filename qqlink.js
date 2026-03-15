@@ -48,7 +48,7 @@ function linkqq2889() {location.replace("https://secure.livechatinc.com/customer
 function linkqqdewa() {location.replace("https://secure.livechatenterprise.com/licence/11739198/v2/open_chat.cgi?groups=0");}
 function linkqqemas() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=9689690&group=1");}
 function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
-function linkqqmacan() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=16511436&group=0");}
+function linkqqmacan() {location.replace("https://linkqqmacan.com/");}
 function linkluxury777() {location.replace("https://linkluxury777.com/");}
 function linkqq1221() {location.replace("https://qq1221loop.org/Member/StreamlinedRegister?R=301B242B");}
 function linkqqtime() {location.replace("https://www.senisastra.com/");}
