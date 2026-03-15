@@ -16,7 +16,7 @@ function linkqq724() {location.replace("https://qq724zfp.com/");}
 function linkqq288() {location.replace("https://qq288im3.com/");}
 function linkqq828() {location.replace("https://lkgw.net/qq828-alternatif");}
 function linkqq801() {location.replace("https://syntactic-surprise-calculator.com/Member/StreamlinedRegister?R=513A3A0C");}
-function linkqq808() {location.replace("https://schneiderpipeorgans.com/Member/StreamlinedRegister?R=BAB2F2FE");}
+function linkqq808() {location.replace("https://vipakses.com/LoginQQ808");}
 function linkqq882() {location.replace("https://qq882ebg.com/");}
 function linkqqberak() {location.replace("https://lkgw.net/qqberak-alternatif");}
 function linkqq88pro() {location.replace("hhttps://qq88pro9df.com/Member/StreamlinedRegister?R=DB3B7621");}
