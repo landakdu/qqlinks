@@ -43,7 +43,7 @@ function jumpqqbos99() {location.replace("https://www.senisastra.com/");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2rsu.com/");}
 function linkqqkuda() {location.replace("https://secure.livechatenterprise.com/licence/15399624/v2/open_chat.cgi?group=6");}
-function linkqqmilan() {location.replace("https://stadio1milan.site/");}
+function linkqqmilan() {location.replace("https://bit.ly/M1l4N");}
 function linkqq2889() {location.replace("https://qq2889tiga.com/");}
 function linkqqdewa() {location.replace("https://qqdewatop.com/");}
 function linkqqemas() {location.replace("https://rdrect.cc/qqemas/");}
