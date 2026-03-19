@@ -6,7 +6,7 @@ function linkqqkopidarat() {location.replace("https://qqkopidarat1a.com/");}
 function linkarenacuan99() {location.replace("https://arenacuan99tp.com/");}
 function linkqqmybet() {location.replace("https://qqmybet77p.com/");}
 function linkqqtopan() {location.replace("https://qqtopan8.com/");}
-function link88idr() {location.replace("https://rebrand.ly/88idrlogin-AMP");}
+function link88idr() {location.replace("https://qqlink.pages.dev/baca/");}
 function link1001win() {location.replace("https://vipakses.com/1001newAMP-LOGIN");}
 function linkqqangpao() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqq888bet() {location.replace("https://www.qq888bet1bo.com/");}
