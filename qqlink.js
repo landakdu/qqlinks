@@ -19,7 +19,7 @@ function linkqq801() {location.replace("https://syntactic-surprise-calculator.co
 function linkqq808() {location.replace("https://schneiderpipeorgans.com/Member/StreamlinedRegister?R=BAB2F2FE");}
 function linkqq882() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqqberak() {location.replace("https://qqberak45t.com/Member/StreamlinedRegister?R=E038C132");}
-function linkqq88pro() {location.replace("hhttps://qq88pro9df.com/Member/StreamlinedRegister?R=DB3B7621");}
+function linkqq88pro() {location.replace("https://qq88pro9df.com/Member/StreamlinedRegister?R=DB3B7621");}
 function linkqq303() {location.replace("https://qq303vr5.com/Member/StreamlinedRegister?R=5FC84B59");}
 function jumpqq303() {location.replace("https://qq303vr5.com/Member/StreamlinedRegister?R=5FC84B59");}
 function linkqqfortuna() {location.replace("https://qqfortuna3bc.com/Member/StreamlinedRegister?R=0553AB00");}
@@ -39,7 +39,7 @@ function linkqqfun77() {location.replace("https://qqfun77pg1.com/Member/Streamli
 function linkqq999bet() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqq7997() {location.replace("https://qq7997ek8.com/Member/StreamlinedRegister?R=4668EFEF");}
 function linkqqbos99() {location.replace("https://qqlink.pages.dev/baca/");}
-function jumpqqbos99() {location.replace("https://qqlink.pages.dev/baca/);}
+function jumpqqbos99() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqq8889() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqq1x2() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqqkuda() {location.replace("https://cutt.ly/Daftar-QQKuda");}
