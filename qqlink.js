@@ -7,7 +7,7 @@ function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer
 function linkqqmacan() {location.replace("https://linkqqmacan.com/");}
 function linkluxury777() {location.replace("https://linkluxury777.com/");}
 function linkqq1221() {location.replace("https://qq1221loop.org/Member/StreamlinedRegister?R=301B242B");}
-function linknama() {location.replace("https://www.senisastra.com/");}
+function linktutup() {location.replace("https://www.senisastra.com/");}
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function link() {location.replace("/");}
