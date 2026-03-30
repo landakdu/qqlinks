@@ -24,7 +24,7 @@ function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function linkqq724() {location.replace("https://vipakses.com/LoginQQ724");}
 function linkqq288() {location.replace("lkgw.net/qq288-altbrand");}
 function linkqq828() {location.replace("https://qqlink.pages.dev/baca/");}
-function linkqq801() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqq801() {location.replace("https://vipakses.com/Login801");}
 function linkqq808() {location.replace("https://vipakses.com/LoginQQ808");}
 function linkqq882() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqqberak() {location.replace("https://qqlink.pages.dev/baca/");}
