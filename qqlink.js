@@ -10,7 +10,7 @@ function linkqq1221() {location.replace("https://qq1221loop.org/Member/Streamlin
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function link() {location.replace("/");}
-function linkqq101() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqq101() {location.replace("https://lkgw.net/qq101-altbrand");}
 function linkqqkopidarat() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkarenacuan99() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqqmybet() {location.replace("https://qqlink.pages.dev/baca/");}
