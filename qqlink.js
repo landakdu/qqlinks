@@ -49,5 +49,5 @@ function linkqq999bet() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqq7997() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqqbos99() {location.replace("https://qqlink.pages.dev/baca/");}
 function jumpqqbos99() {location.replace("https://qqlink.pages.dev/baca/");}
-function linkqq8889() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqq8889() {location.replace("https://rebrand.ly/loginqq8889");}
 function linkqq1x2() {location.replace("https://lkgw.net/qq1x2-altbrand");}
