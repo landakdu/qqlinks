@@ -6,7 +6,7 @@ function linkqqemas() {location.replace("https://rdrect.cc/qqemas/");}
 function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
 function linkqqmacan() {location.replace("https://linkqqmacan.com/");}
 function linkluxury777() {location.replace("https://linkluxury777.com/");}
-function linkqq1221() {location.replace("https://qq1221loop.org/Member/StreamlinedRegister?R=301B242B");}
+function linkqq1221() {location.replace("https://qq1221int.net/Member/StreamlinedRegister?R=301B242B");}
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function link() {location.replace("/");}
