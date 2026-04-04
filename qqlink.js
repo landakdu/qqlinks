@@ -34,7 +34,7 @@ function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function linkqq188x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq724() {location.replace("https://vipakses.com/LoginQQ724");}
 function linkqq724x() {location.replace("https://qqlink.pages.dev/referral-1/");}
-function linkqq288() {location.replace("lkgw.net/qq288-altbrand");}
+function linkqq288() {location.replace("https://lkgw.net/qq288-altbrand");}
 function linkqq288x() {location.replace("https://qqlink.pages.dev/referral-1/");}
 function linkqq828x() {location.replace("https://lkgw.net/qq828-altbrand");}
 function linkqq828() {location.replace("https://qqlink.pages.dev/referral-2/");}
