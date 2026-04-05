@@ -64,8 +64,8 @@ function linkqqextra() {location.replace("https://qqextra21k.com/");}
 function linkqqextrax() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqterang() {location.replace("https://qqterang24j.com/");}
 function linkqqterangx() {location.replace("https://qqlink.pages.dev/referral-1/");}
-function linkqq7887() {location.replace("https://qq7887.com/");}
-function linkqq7887x() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq7887x() {location.replace("https://qq7887.com/");}
+function linkqq7887() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqfunwin() {location.replace("https://rebrand.ly/funwin7");}
 function linkqqfunwinx() {location.replace("https://qqlink.pages.dev/referral-1/");}
 function linkqqmegah() {location.replace("https://rebrand.ly/megah28");}
