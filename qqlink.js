@@ -3,7 +3,7 @@ function linkqqmilan() {location.replace("https://bit.ly/M1l4N");}
 function linkqq2889() {location.replace("https://cutt.ly/qq2889");}
 function linkqqdewa() {location.replace("https://cepat.io/qqdewalogin1");}
 function linkqqemas() {location.replace("https://rdrect.cc/qqemas/");}
-function linkqqnusa() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12597978&group=0");}
+function linkqqnusa() {location.replace("https://qqnusamew.net/");}
 function linkqqmacan() {location.replace("https://linkqqmacan.com/");}
 function linkluxury777() {location.replace("https://linkluxury777.com/");}
 function linkqq1221() {location.replace("https://qq1221int.net/Member/StreamlinedRegister?R=301B242B");}
