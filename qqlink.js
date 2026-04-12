@@ -10,6 +10,7 @@ function linkqq1221() {location.replace("https://qq1221int.net/Member/Streamline
 document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function link() {location.replace("/");}
+function linknamax() {location.replace("/");}
 function linkqq101() {location.replace("https://lkgw.net/qq101-altbrand");}
 function linkqq101x() {location.replace("https://qqlink.pages.dev/referral-1/");}
 function linkqqkopidarat() {location.replace("https://qqkopidarat1a.com/");}
