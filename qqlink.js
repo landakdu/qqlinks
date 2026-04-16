@@ -65,8 +65,8 @@ function linkqqextra() {location.replace("https://qqextra21k.com/");}
 function linkqqextrax() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqterang() {location.replace("https://qqterang24j.com/");}
 function linkqqterangx() {location.replace("https://qqlink.pages.dev/referral-1/");}
-function linkqq7887x() {location.replace("https://qq7887jru.com/");}
-function linkqq7887() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq7887() {location.replace("https://qq7887jru.com/");}
+function linkqq7887x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqfunwin() {location.replace("https://rebrand.ly/funwin7");}
 function linkqqfunwinx() {location.replace("https://qqlink.pages.dev/referral-1/");}
 function linkqqmegah() {location.replace("https://rebrand.ly/megah28");}
@@ -75,8 +75,8 @@ function linkqqfun77x() {location.replace("https://qqfun77hma.com/");}
 function linkqqfun77() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq999bet() {location.replace("https://qq999bet.com/");}
 function linkqq999betx() {location.replace("https://qqlink.pages.dev/referral-1/");}
-function linkqq7997x() {location.replace("https://qq7997bs2.com/");}
-function linkqq7997() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq7997() {location.replace("https://qq7997bs2.com/");}
+function linkqq7997x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqbos99() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqbos99x() {location.replace("https://senisastra.com/");}
 function linkqq8889() {location.replace("https://rebrand.ly/loginqq8889");}
