@@ -1,3 +1,4 @@
+function linkqq88asia() {location.replace("https://enjoythegame.online/qq88asia");}
 function linkqq8821() {location.replace("https://enjoythegame.online/qq8821");}
 function linkqqkuda() {location.replace("https://cutt.ly/Daftar-QQKuda");}
 function linkgoldwin678() {location.replace("https://masuk.gold/");}
