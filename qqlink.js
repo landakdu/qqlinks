@@ -1,4 +1,4 @@
-function link() {location.replace("https://klik.bet/ibosport-v1");}
+function linkibosport() {location.replace("https://klik.bet/ibosport-v1");}
 function linkqq1889() {location.replace("https://www.qq1889.fyi/");}
 function linkqq88asia() {location.replace("https://enjoythegame.online/qq88asia");}
 function linkqq8821() {location.replace("https://enjoythegame.online/qq8821");}
