@@ -1,7 +1,7 @@
 function linkqq88asia() {location.replace("https://enjoythegame.online/qq88asia");}
 function linkqq8821() {location.replace("https://enjoythegame.online/qq8821");}
-function linkqqkuda() {location.replace("https://cutt.ly/Daftar-QQKuda");}
 function linkgoldwin678() {location.replace("https://masuk.gold/");}
+function linkqqkuda() {location.replace("https://cutt.ly/Daftar-QQKuda");}
 function linkqqmilan() {location.replace("https://bit.ly/M1l4N");}
 function linkqq2889() {location.replace("https://cutt.ly/qq2889");}
 function linkqqdewa() {location.replwisnujpbanyakace("https://cepat.io/qqdewalogin1");}
