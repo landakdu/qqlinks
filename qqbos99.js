@@ -1,9 +1,9 @@
 var url = Array(
-  "https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED",
-  "https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED",
-  "https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED",
-  "https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED",
-  "https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED"
+  "https://www.senisastra.com/",
+  "https://www.senisastra.com/",
+  "https://www.senisastra.com/",
+  "https://www.senisastra.com/",
+  "https://www.senisastra.com/"
 );
 var rid = "";
 
