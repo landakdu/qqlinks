@@ -3,7 +3,7 @@ function linkmagnum188() {location.replace("/");}
 function linkbandar55() {location.replace("/");}
 function linkalfa138() {location.replace("https://t.ly/daftar-alfa138");}
 function linkmewah99() {location.replace("https://rebrandly.one/mewah99-login");}
-function linkqqstarvegas() {location.replace("/");}
+function linkqqstarvegas() {location.replace("https://qqamptarget.click/");}
 function linkbig368() {location.replace("https://mylink.ly/big368");}
 function linkidn33() {location.replace("https://urlq.link/ampidn33");}
 function linkqqfullbet() {location.replace("https://tinyurl.com/ampqqfullbet");}
