@@ -56,8 +56,8 @@ function linkqq88pro() {location.replace("https://rebrand.ly/qq88pro1");}
 function linkqq88prox() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq303() {location.replace("https://rebrand.ly/QQ303-Login");}
 function linkqq303x() {location.replace("https://qqlink.pages.dev/referral-2/");}
-function linkqqfortuna() {location.replace("https://rebrand.ly/qqfortuna-login");}
-function linkqqfortunax() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqqfortunax() {location.replace("https://rebrand.ly/qqfortuna-login");}
+function linkqqfortuna() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqbetwin() {location.replace("https://qqbetwin69q.com/");}
 function linkqqbetwinx() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqfunbet() {location.replace("https://qqfunbet12p.com/");}
