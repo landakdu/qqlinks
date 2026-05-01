@@ -1,6 +1,6 @@
-function linkalibababet() {location.replace("/");}
-function linkmagnum188() {location.replace("/");}
-function linkbandar55() {location.replace("/");}
+function linkalibababet() {location.replace("https://rebrand.ly/f4c4ba/");}
+function linkmagnum188() {location.replace("https://jali.me/magnum188-link");}
+function linkbandar55() {location.replace("https://alternatifbandar55.site/");}
 function linkalfa138() {location.replace("https://t.ly/daftar-alfa138");}
 function linkmewah99() {location.replace("https://rebrandly.one/mewah99-login");}
 function linkqqstarvegas() {location.replace("https://qqamptarget.click/");}
