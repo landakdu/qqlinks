@@ -1,3 +1,14 @@
+function link() {location.replace("/");}
+function link() {location.replace("/");}
+function link() {location.replace("/");}
+function link() {location.replace("/");}
+function link() {location.replace("/");}
+function link() {location.replace("/");}
+function link() {location.replace("/");}
+function linkqqfullbet() {location.replace("https://tinyurl.com/ampqqfullbet");}
+function linkonestepwin() {location.replace("https://jituwin16a.com/");}
+function linkm11bet() {location.replace("https://dub.sh/m11bet");}
+function linkhokibet() {location.replace("https://hoki.bio/v1/");}
 function linkibosport() {location.replace("https://klik.bet/ibosport-v1");}
 function linkqq1889() {location.replace("https://www.qq1889.fyi/");}
 function linkqq88asia() {location.replace("https://enjoythegame.online/qq88asia");}
