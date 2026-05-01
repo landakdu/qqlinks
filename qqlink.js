@@ -3,7 +3,7 @@ function link() {location.replace("/");}
 function link() {location.replace("/");}
 function link() {location.replace("/");}
 function link() {location.replace("/");}
-function link() {location.replace("/");}
+function linkbig368() {location.replace("https://mylink.ly/big368");}
 function linkidn33() {location.replace("https://urlq.link/ampidn33");}
 function linkqqfullbet() {location.replace("https://tinyurl.com/ampqqfullbet");}
 function linkonestepwin() {location.replace("https://jituwin16a.com/");}
