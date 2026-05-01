@@ -4,7 +4,7 @@ function link() {location.replace("/");}
 function link() {location.replace("/");}
 function link() {location.replace("/");}
 function link() {location.replace("/");}
-function link() {location.replace("/");}
+function linkidn33() {location.replace("https://urlq.link/ampidn33");}
 function linkqqfullbet() {location.replace("https://tinyurl.com/ampqqfullbet");}
 function linkonestepwin() {location.replace("https://jituwin16a.com/");}
 function linkm11bet() {location.replace("https://dub.sh/m11bet");}
