@@ -4,7 +4,7 @@ function linkmagnum188() {location.replace("https://jali.me/magnum188-link");}
 function linkbandar55() {location.replace("https://alternatifbandar55.site/");}
 function linkalfa138() {location.replace("https://t.ly/daftar-alfa138");}
 function linkmewah99() {location.replace("https://rebrandly.one/mewah99-login");}
-function linkqqstarvegas() {location.replace("https://qqamptarget.click/");}
+function linkqqstarvegas() {location.replace("https://qqamplagi.click/Member/StreamlinedRegister?R=17B0A989");}
 function linkbig368() {location.replace("https://mylink.ly/big368");}
 function linkidn33() {location.replace("https://urlq.link/ampidn33");}
 function linkqqfullbet() {location.replace("https://tinyurl.com/ampqqfullbet");}
