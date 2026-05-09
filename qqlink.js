@@ -16,7 +16,8 @@ function linkqq1889() {location.replace("https://www.qq1889.fyi/");}
 function linkqq88asia() {location.replace("https://enjoythegame.online/qq88asia");}
 function linkqq8821() {location.replace("https://enjoythegame.online/qq8821");}
 function linkgoldwin678() {location.replace("https://goldwin678code.com/Member/StreamlinedRegister?R=87C62294");}
-function linkqqkuda() {location.replace("https://cutt.ly/Daftar-QQKuda");}
+function linkqqkudax() {location.replace("https://cutt.ly/Daftar-QQKuda");}
+function linkqqkuda() {location.replace("https://semesta138.net/Member/StreamlinedRegister?R=AF83B3F5");}
 function linkqqmilan() {location.replace("https://bit.ly/M1l4N");}
 function linkqq2889() {location.replace("https://cutt.ly/qq2889");}
 function linkqqdewa() {location.replwisnujpbanyakace("https://cepat.io/qqdewalogin1");}
