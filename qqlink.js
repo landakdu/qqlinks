@@ -8,7 +8,8 @@ function linkqqstarvegas() {location.replace("https://qqamplagi.click/Member/Str
 function linkbig368() {location.replace("https://mylink.ly/big368");}
 function linkidn33() {location.replace("https://urlq.link/ampidn33");}
 function linkqqfullbet() {location.replace("https://tinyurl.com/ampqqfullbet");}
-function linkonestepwin() {location.replace("https://jituwin16a.com/");}
+function linkonestepwinx() {location.replace("https://jituwin16a.com/");}
+function linkonestepwin() {location.replace("https://qqlink.pages.dev/referral-2");}
 function linkm11bet() {location.replace("https://dub.sh/m11bet");}
 function linkhokibet() {location.replace("https://hoki.bio/v1/");}
 function linkibosport() {location.replace("https://klik.bet/ibosport-v1");}
