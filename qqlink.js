@@ -20,7 +20,7 @@ function linkqqkudax() {location.replace("https://cutt.ly/Daftar-QQKuda");}
 function linkqqkuda() {location.replace("https://semesta138.net/Member/StreamlinedRegister?R=AF83B3F5");}
 function linkqqmilan() {location.replace("https://bit.ly/M1l4N");}
 function linkqq2889x() {location.replace("https://cutt.ly/qq2889");}
-function linkqq2889() {location.replace("https://qqlink.pages.dev/referral-1/");}
+function linkqq2889() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqdewa() {location.replwisnujpbanyakace("https://cepat.io/qqdewalogin1");}
 function linkqqemas() {location.replace("https://rdrect.cc/qqemas/");}
 function linkqqnusa() {location.replace("https://qqnusamew.net/");}
