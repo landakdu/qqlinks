@@ -93,7 +93,7 @@ function linkqqfunwin() {location.replace("https://rebrand.ly/funwin7");}
 function linkqqfunwinx() {location.replace("https://qqlink.pages.dev/referral-1/");}
 function linkqqmegah() {location.replace("https://rebrand.ly/megah28");}
 function linkqqmegahx() {location.replace("https://qqlink.pages.dev/referral-2/");}
-function linkqqfun77() {location.replace("https://qqfun77hma.com/");}
+function linkqqfun77() {location.replace("https://qqfun77ak7.com/");}
 function linkqqfun77x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq999bet() {location.replace("https://qq999bet.com/");}
 function linkqq999betx() {location.replace("https://qqlink.pages.dev/referral-1/");}
