@@ -62,8 +62,8 @@ function linkqq828x() {location.replace("https://lkgw.net/qq828-altbrand");}
 function linkqq828() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq801x() {location.replace("https://vipakses.com/Login801");}
 function linkqq801() {location.replace("https://qqlink.pages.dev/referral-2/");}
-function linkqq808x() {location.replace("https://vipakses.com/LoginQQ808");}
-function linkqq808() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq808() {location.replace("https://vipakses.com/LoginQQ808");}
+function linkqq808x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq882x() {location.replace("https://lkgw.net/qq882-altbrand");}
 function linkqq882() {location.replace("https://qqlink.pages.dev/referral-1/");}
 function linkqqberak() {location.replace("https://lkgw.net/qqberak-alternatif");}
