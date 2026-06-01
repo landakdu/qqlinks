@@ -44,8 +44,8 @@ function linkqqtopanx() {location.replace("https://qqtopan8.com/");}
 function linkqqtopan() {location.replace("https://qqlink.pages.dev/referral-1/");}
 function link88idr() {location.replace("https://rebrand.ly/88idrlogin-AMP");}
 function link88idrx() {location.replace("https://qqlink.pages.dev/referral-2/");}
-function link1001winx() {location.replace("https://vipakses.com/1001newAMP-LOGIN");}
-function link1001win() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function link1001win() {location.replace("https://vipakses.com/1001newAMP-LOGIN");}
+function link1001winx() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqangpaox() {location.replace("https://vipakses.com/LPLOGINQQANGPAO");}
 function linkqqangpao() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq888bet() {location.replace("https://qq888bet5jm.com/");}
