@@ -23,7 +23,7 @@ function linkqqmilan() {location.replace("https://bit.ly/M1l4N");}
 function linkqq2889() {location.replace("https://cutt.ly/qq2889");}
 function linkqq2889x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqdewa() {location.replwisnujpbanyakace("https://cepat.io/qqdewalogin1");}
-function linkqqemas() {location.replace("https://rdrect.cc/qqemas/");}
+function linkqqemas() {location.replace("https://lyte.page/qqemas");}
 function linkqqnusa() {location.replace("https://qqnusamew.net/");}
 function linkqqmacan() {location.replace("https://linkqqmacan.com/");}
 function linkluxury777() {location.replace("https://linkluxury777.com/");}
