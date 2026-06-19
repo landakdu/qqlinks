@@ -102,7 +102,7 @@ function linkqq7997() {location.replace("https://qqlink.pages.dev/referral-2/");
 function linkqqbos99() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqbos99x() {location.replace("https://qqbos99p1.com/");}
 function linktutup() {location.replace("https://amplob-ri.pages.dev/link/");}
-function linkqq8889x() {location.replace("https://rebrand.ly/loginqq8889");}
-function linkqq8889() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq8889() {location.replace("https://rebrand.ly/loginqq8889");}
+function linkqq8889x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq1x2() {location.replace("https://lkgw.net/qq1x2-altbrand");}
 function linkqq1x2x() {location.replace("https://qqlink.pages.dev/referral-2/");}
