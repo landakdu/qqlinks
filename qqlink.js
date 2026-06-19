@@ -32,8 +32,8 @@ document.getElementById('yourform').submit();
 function jumpnama() {window.open("/");}
 function link() {location.replace("/");}
 function linknamax() {location.replace("/");}
-function linkqq101x() {location.replace("https://lkgw.net/qq101-altbrand");}
-function linkqq101() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq101() {location.replace("https://lkgw.net/qq101-altbrand");}
+function linkqq101x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqkopidaratx() {location.replace("https://qqkopidarat1a.com/");}
 function linkqqkopidarat() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkarenacuan99x() {location.replace("https://arenacuan99.com/");}
