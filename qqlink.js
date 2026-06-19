@@ -50,8 +50,8 @@ function linkqqangpao() {location.replace("https://vipakses.com/LPLOGINQQANGPAO"
 function linkqqangpaox() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq888bet() {location.replace("https://qq888bet5jm.com/");}
 function linkqq888betx() {location.replace("https://qqlink.pages.dev/referral-2/");}
-function linkqqbonusx() {location.replace("https://lkgw.net/qqbonus-altbrand");}
-function linkqqbonus() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqqbonus() {location.replace("https://lkgw.net/qqbonus-altbrand");}
+function linkqqbonusx() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function linkqq188x() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq724() {location.replace("https://vipakses.com/LoginQQ724");}
