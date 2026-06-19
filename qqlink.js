@@ -95,8 +95,8 @@ function linkqqmegahx() {location.replace("https://rebrand.ly/megah28");}
 function linkqqmegah() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqfun77x() {location.replace("https://qqfun77ak7.com/");}
 function linkqqfun77() {location.replace("https://qqlink.pages.dev/referral-2/");}
-function linkqq999betx() {location.replace("https://qq999bet99w.com/");}
-function linkqq999bet() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq999bet() {location.replace("https://qq999bet99w.com/");}
+function linkqq999betx() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqq7997x() {location.replace("https://qq7997bs2.com/");}
 function linkqq7997() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqbos99() {location.replace("https://qqlink.pages.dev/referral-2/");}
