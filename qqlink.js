@@ -79,7 +79,7 @@ function linkqqbetwinx() {location.replace("https://qqlink.pages.dev/referral-2/
 function linkqqfunbet() {location.replace("https://qqfunbet12p.com/");}
 function linkqqfunbetx() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqvegasref() {location.replace("https://qqvegas3kl.com/Member/StreamlinedRegister?R=D1DF09BC");}
-function linkqqvegas() {location.replace("https://qqvegas3kl.com/");}
+function linkqqvegas() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqvegasx() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqkingbetx() {location.replace("https://www.qqkingbet24.com/");}
 function linkqqkingbet() {location.replace("https://qqlink.pages.dev/referral-2/");}
